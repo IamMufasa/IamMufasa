@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IamMufasa
-- 👀 I’m interested in Cloud Security, Cybersecurity,DevOPS
-- 🌱 I’m currently learning Cloud Engineering
+- 👋 Hi, I am Richie Akpan
+- 👀 I’m interested in Cloud Security,Cybersecurity,DevOPS
+- 🌱 I’m currently learning Azure DevOPS
 - 💞️ I’m looking to collaborate and learn ...
 - 📫 How to reach me harkpanrichie@gmail.com
 
