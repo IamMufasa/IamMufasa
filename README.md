@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Pentest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="[https://img.shields.io/badge](https://www.credly.com/badges/946839ac-2ea7-491f-9449-ba62b92694cf/public_url)/-Microsoft Certified: Azure Security Engineer Associate-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft Certified: Azure Security Engineer Associate-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Projects
