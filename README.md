@@ -55,5 +55,5 @@ To launch my career in cybersecurity as a proactive and vigilant SOC Tier 1 Anal
 - <a href="https://github.com/IamMufasa/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/IamMufasa/SOC Automation Project/tree/main">SOC Automation Project</a>
 - <a href="https://github.com/IamMufasa/Home SIEM Lab/tree/main">Home SIEM Lab</a>: Built a SIEM lab using Pfsense, Splunk, Kali Linux, Security Onion, and Active Directory to simulate a small enterprise network—improved threat detection capabilities by 25%.
-- Azure Sentinel Deployment: Configured and deployed Azure resources, including Sentinel, to detect attacker persistence on a virtual machine. Created custom analytics rules for enhanced security alerts.
-- Adversary Emulation: Simulated offensive and defensive tactics for adversary emulation and incident response practice.
+- <a href="https://github.com/IamMufasa/Azure Sentinel Deployment/tree/main">Azure Sentinel Deployment</a>: Configured and deployed Azure resources, including Sentinel, to detect attacker persistence on a virtual machine. Created custom analytics rules for enhanced security alerts.
+- <a href="https://github.com/IamMufasa/Adversary Emulation/tree/main">Adversary Emulation</a>: Simulated offensive and defensive tactics for adversary emulation and incident response practice.
