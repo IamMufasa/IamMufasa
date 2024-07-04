@@ -1,11 +1,11 @@
 # Hello, I'm Richie!
 <a href="https://linkedin.com/in/richardakpan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated technology enthusiast with a profound interest in cybersecurity and a commitment to solving complex security challenges. My academic journey has fueled my passion for protecting digital assets. I am eager to apply my skills and knowledge by starting my career in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To launch my career in cybersecurity as a proactive and vigilant SOC Tier 1 Analyst dedicated to safeguarding organizational assets and swiftly responding to security incidents. Eager to apply my technical skills and passion for digital security to make a significant impact in a fast-paced environment.
 
 ## Skills
 
