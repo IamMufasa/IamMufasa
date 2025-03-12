@@ -1,12 +1,13 @@
 # Hello, I'm Richie!
 <a href="https://linkedin.com/in/richardakpan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated technology enthusiast with a profound interest in cybersecurity and a commitment to solving complex security challenges. My academic journey has fueled my passion for protecting digital assets. I am eager to apply my skills and knowledge by starting my career in a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a recent IT Security graduate passionate about cybersecurity and dedicated to protecting digital assets from evolving threats. With hands-on experience in security tools and technologies, I focus on implementing robust security measures and identifying vulnerabilities before they can be exploited.
 
 ## Objective
 
-To launch my career in cybersecurity as a proactive and vigilant SOC Tier 1 Analyst dedicated to safeguarding organizational assets and swiftly responding to security incidents. Eager to apply my technical skills and passion for digital security to make a significant impact in a fast-paced environment.
+My expertise includes setting up SIEM solutions, creating monitoring dashboards, conducting vulnerability assessments, and developing incident response plans. I continuously expand my knowledge to stay ahead of emerging threats and security challenges.
 
+I believe in a proactive approach to cybersecurity, focusing on prevention while maintaining readiness for rapid response to security incidents. My goal is to contribute to organizations by strengthening their security posture and protecting their valuable digital assets.
 ## Skills
 
 | Skill                                         | Associated Project         |
