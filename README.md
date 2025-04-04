@@ -142,15 +142,15 @@ I aspire to grow as a cybersecurity specialist, contributing to innovative teams
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" alt="Richie's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iammufasa&show_icons=true&theme=tokyonight" alt="Richie's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammufasa&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iammufasa&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
