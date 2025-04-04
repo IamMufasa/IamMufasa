@@ -75,7 +75,7 @@ I aspire to grow as a cybersecurity specialist, contributing to innovative teams
 `pfSense`, `Wireshark`, `Security Onion`
 
 **Endpoint Security:**  
-`Sysinternals` *(Optional: Add CrowdStrike if used)*
+`Sysinternals`
 
 **SIEM Solutions:**  
 `Splunk`, `Azure Sentinel`, `Security Onion`
