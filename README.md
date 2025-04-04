@@ -63,3 +63,12 @@ I believe in a proactive approach to cybersecurity, focusing on prevention while
 - <a href="https://github.com/IamMufasa/Home SIEM Lab/tree/main">Home SIEM Lab</a>: Built a SIEM lab using Pfsense, Splunk, Kali Linux, Security Onion, and Active Directory to simulate a small enterprise network—improved threat detection capabilities by 25%.
 - <a href="https://github.com/IamMufasa/Azure Sentinel Deployment/tree/main">Azure Sentinel Deployment</a>: Configured and deployed Azure resources, including Sentinel, to detect attacker persistence on a virtual machine. Created custom analytics rules for enhanced security alerts.
 - <a href="https://github.com/IamMufasa/Adversary Emulation/tree/main">Adversary Emulation</a>: Simulated offensive and defensive tactics for adversary emulation and incident response practice.
+
+
+## 🌍 Community Contributions
+
+- 🎙️ *Guest Speaker at XYZ Cybersecurity Meetup* (Future goal!)
+- ✍️ *Blogging about Home Lab Projects on Medium* [Coming Soon]
+- 👥 *Mentoring entry-level cybersecurity enthusiasts*
+
+*Always open to collaborating on cybersecurity projects and sharing knowledge with the community.*
