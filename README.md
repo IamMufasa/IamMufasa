@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif" alt="Blue Binary Code Rain" width="100%" />
+  <img src="https://media1.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" 
+       alt="Glowing Cybersecurity Shield" 
+       width="100%"
+       style="border: 2px solid #00a2ff; border-radius: 5px;">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast;SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response;Threat+Hunting;Future+CISO;Lifelong+Learner;SOC+Defender" />
