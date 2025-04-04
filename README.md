@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/IcIfJq58EY1bt4FfFV/giphy.gif" alt="Cybersecurity Animated Banner" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response+•+Threat+Hunting;Future+CISO+•+Lifelong+Learner+•+SOC+Defender" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast;SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response;Threat+Hunting;Future+CISO;Lifelong+Learner;SOC+Defender" />
+</p>
 
 <h1 align="center">Hi, I'm Richie! 👋</h1>
 
