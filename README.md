@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=9b38fe914bl7jk3g91oyxitltv6sncgvkxiq1mplm1zn96h5&ep=v1_gifs_related&rid=giphy.gif&ct=g" 
-       width="800">
+  <img src="https://media1.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=9b38fe91ey7agransvnmhq3qkmkvxy1aca0wkj5yh3yee6ye&ep=v1_gifs_related&rid=giphy.gif&ct=g" 
+       alt="Cybersecurity Shield Animation" 
+       style="max-width: 100%; border: 3px solid #0af; border-radius: 10px; box-shadow: 0 0 20px rgba(0,170,255,0.6);">
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast;SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response;Threat+Hunting;Future+CISO;Lifelong+Learner;SOC+Defender" />
