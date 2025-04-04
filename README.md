@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1b2R5eWZ1c3RqZzV2a2F3dGJ0b2d3Y3B0NnRjZzB0eGJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Matrix Blue Cybersecurity Banner" width="100%" />
-</p>
+<img src="https://media.giphy.com/media/l0HU7JI8Af0kzXhU4/giphy.gif" width="100%">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast;SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response;Threat+Hunting;Future+CISO;Lifelong+Learner;SOC+Defender" />
 </p>
