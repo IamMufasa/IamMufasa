@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Blue Matrix Code Rain" width="100%" />
+  <img src="https://media1.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=9b38fe91yusdpik9aj5eut9ls3mjrbazd56ulb060oeunv46&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+       alt="Cybersecurity Shield Animation" 
+       width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast;SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response;Threat+Hunting;Future+CISO;Lifelong+Learner;SOC+Defender" />
