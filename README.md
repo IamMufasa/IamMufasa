@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Glowing Blue Cybersecurity Animation" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,120,255,0.3);"/>
+  <img src="https://media1.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" 
+       alt="Cybersecurity Shield Animation" 
+       width="600">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Richie!+%F0%9F%91%8B;Cybersecurity+Enthusiast;SOC+Analyst;Building+Defenses%2C+One+Layer+at+a+Time.;SIEM+•+SOAR+•+Detection+%26+Response;Threat+Hunting;Future+CISO;Lifelong+Learner;SOC+Defender" />
