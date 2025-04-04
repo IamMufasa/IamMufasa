@@ -180,18 +180,18 @@ Whether it’s building labs, contributing to open-source, or mentoring peers, I
 ## 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/richardakpan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-github/" target="_blank">
+  <a href="https://github.com/iammufasa/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:harkpanrichie@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center"><em>Like & follow @udu4kobong_ for more mindful pings.</em></p>
+<p align="center"><em>Like & follow for more.</em></p>
 
 ---
 ## 🌍 Community Contributions
