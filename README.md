@@ -10,9 +10,9 @@ I’m an IT Security graduate with hands-on experience in:
 ---
 
 ### 💼 Projects
-### 🛡️ Vulnerability Management Lab with Tenable
+### 🛡️ Vulnerability Management Lab with Tenable  
 > Conducted cloud-based vulnerability assessments and DISA/STIG remediation in Azure using Tenable’s VM platform.  
-📁 [View Repository](#)
+📁 [View Repository](https://github.com/IamMufasa/vulnerability-management-lab)
 
 ---
 
