@@ -11,17 +11,7 @@ I’m an IT Security graduate with hands-on experience in:
 
 ### 💼 Projects
 
-**🔹 SOC Lab – Splunk Security Monitoring**
-- Built a SOC monitoring environment using Splunk for alerting and threat hunting.
-- [GitHub Repo ➜](#)
 
-**🔹 IAM Lab – RichTech University**
-- Created an enterprise IAM environment with SSO, LDAP, and Duo MFA integration.
-- [GitHub Repo ➜](#)
-
-**🔹 Governance & Compliance Lab – NIST 800-53**
-- Simulated a security audit environment using NIST 800-53 controls.
-- [GitHub Repo ➜](#)
 
 ---
 
@@ -32,11 +22,10 @@ I’m an IT Security graduate with hands-on experience in:
 ---
 
 ### 🎯 Currently Building:
-- Security blog & content series on GitHub
-- Cybersecurity community project @3Hive
+- 
 
 ---
 
 ### 📫 Let’s connect
 - LinkedIn: [linkedin.com/in/richieuakpan](https://linkedin.com/in/richieuakpan)
-- YouTube: [TechRichieOut](https://youtube.com/@TechRichieOut)
+  
