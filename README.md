@@ -30,3 +30,5 @@ I’m an IT Security graduate with hands-on experience in:
 ## 🫱🏾‍🫲🏼 Connect with me
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="28" alt="LinkedIn" />](https://www.linkedin.com/in/richardakpan)
+&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/bluesky/000000" width="28" alt="Bluesky" />](https://bsky.app/profile/hellorichie.bsky.social)
