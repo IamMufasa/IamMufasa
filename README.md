@@ -1,5 +1,7 @@
-### Hi, I'm Richie 👋
-🚀 Cybersecurity Enthusiast | SOC & GRC Projects | IAM Home Labs | Tech Content Creator
+## Hi, I'm Richie!
+
+[**Cybersecurity Enthusiast**](#), [**SOC & GRC Projects**](#), [**Tech Content Creator**](#)
+
 
 I’m an IT Security graduate with hands-on experience in:
 - 🔍 Threat detection & response using Splunk and Security Onion
