@@ -27,6 +27,8 @@ I’m an IT Security graduate with hands-on experience in:
 
 ---
 
-### 📫 Let’s connect
-- LinkedIn: [linkedin.com/in/richieuakpan](https://linkedin.com/in/richardakpan)
-  
+## 🤝 Connect With Me
+
+**Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/richieuakpan)
