@@ -1,7 +1,10 @@
-## Hi, I'm Richie!
+<h2>Hi, I'm Richie!</h2>
 
-[**Cybersecurity Enthusiast**](#), [**SOC & GRC Projects**](#), [**Tech Content Creator**](#)
-
+<span style="font-size: 18px;">
+  <a href="https://github.com/IamMufasa" style="text-decoration: none; color: #0366d6;"><b>Cybersecurity Enthusiast</b></a>,
+  <a href="https://github.com/IamMufasa?tab=repositories" style="text-decoration: none; color: #0366d6;"><b>SOC & GRC Builder</b></a>,
+  <a href="https://youtube.com/@TechRichieOut" style="text-decoration: none; color: #0366d6;"><b>YouTuber</b></a>
+</span>
 
 I’m an IT Security graduate with hands-on experience in:
 - 🔍 Threat detection & response using Splunk and Security Onion
