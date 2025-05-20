@@ -27,6 +27,6 @@ I’m an IT Security graduate with hands-on experience in:
 
 ---
 
-## 🤝 Connect With Me
+## 🫱🏾‍🫲🏼 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardakpan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardakpan)
