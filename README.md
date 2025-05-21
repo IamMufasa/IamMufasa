@@ -22,8 +22,17 @@ I’m an IT Security graduate with hands-on experience in:
 ---
 
 ### 🧰 Tools & Technologies
-`Splunk` `Security Onion` `Wireshark` `Wazuh` `Shibboleth` `Grouper` `Duo`  
-`Linux` `Windows` `SIEM` `IAM` `Docker` `NIST` `Nessus` `Autopsy`
+<div align="left">
+  <img src="https://cdn.simpleicons.org/splunk/000000" height="30" alt="Splunk" />
+  <img src="https://cdn.simpleicons.org/linux/000000" height="30" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/windows/000000" height="30" alt="Windows" />
+  <img src="https://cdn.simpleicons.org/docker/000000" height="30" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/wireshark/000000" height="30" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/nessus/000000" height="30" alt="Nessus" />
+  <img src="https://cdn.simpleicons.org/nist/000000" height="30" alt="NIST" />
+  <img src="https://cdn.simpleicons.org/siem/000000" height="30" alt="SIEM" />
+  <img src="https://cdn.simpleicons.org/iam/000000" height="30" alt="IAM" />
+</div>
 
 ---
 
