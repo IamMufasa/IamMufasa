@@ -27,16 +27,11 @@ I’m an IT Security graduate with hands-on experience in:
   <img src="https://cdn.simpleicons.org/wireshark/000000" height="30" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/kalilinux/000000" height="30" alt="Kali Linux" />
   <img src="https://cdn.simpleicons.org/linux/000000" height="30" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/microsoft/000000" height="30" alt="Windows" />
-  <img src="https://cdn.simpleicons.org/azuredevops/000000" height="30" alt="Azure" />
-  <img src="https://cdn.simpleicons.org/amazonaws/000000" height="30" alt="AWS" />
   <img src="https://cdn.simpleicons.org/docker/000000" height="30" alt="Docker" />
   <img src="https://cdn.simpleicons.org/googlecloud/000000" height="30" alt="Google Cloud" />
   <img src="https://cdn.simpleicons.org/hashicorp/000000" height="30" alt="HashiCorp" />
-  <img src="https://cdn.simpleicons.org/githubactions/000000" height="30" alt="GitHub Actions" />
   <img src="https://cdn.simpleicons.org/python/000000" height="30" alt="Python" />
   <img src="https://cdn.simpleicons.org/javascript/000000" height="30" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/000000" height="30" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/mysql/000000" height="30" alt="SQL" />
   <img src="https://cdn.simpleicons.org/html5/000000" height="30" alt="HTML5" />
   <img src="https://cdn.simpleicons.org/css3/000000" height="30" alt="CSS3" />
