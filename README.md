@@ -10,7 +10,7 @@
 <ul style="font-size: 16px;">
   <li>🔍 Threat detection & response using Splunk and Security Onion</li>
   <li>📊 Risk assessments with NIST SP 800-53</li>
-  <li>🔐 Identity & Access Management (IAM)</li> MFA to enforce least privilege and support compliance.</li>
+  <li>🔐 Identity & Access Management (IAM)</li>
   <li>🛠️ Security automation & SIEM implementation in home labs</li>
 </ul>
 ---
