@@ -1,4 +1,4 @@
-<h2>Hi, I'm Richie!</h2>
+<h2 style="all: unset; font-size: 32px; font-weight: bold;">Hi, I'm Richie!</h2>
 
 <span style="font-size: 18px;">
   <a href="https://github.com/IamMufasa" style="text-decoration: none; color: #0366d6;"><b>Cybersecurity Enthusiast</b></a>,
@@ -6,13 +6,13 @@
   <a href="https://youtube.com/@TechRichieOut" style="text-decoration: none; color: #0366d6;"><b>YouTuber</b></a>
 </span>
 
-I’m an IT Security graduate with hands-on experience in:
-- 🔍 Threat detection & response using Splunk and Security Onion
-- 📊 Risk assessments with NIST SP 800-53
-- 🔐 **Identity & Access Management (IAM)** — managing user access provisioning, SSO/MFA integration, and access reviews using tools like Shibboleth, Grouper, and Duo MFA to enforce least privilege and support compliance.
-
-- 🛠️ Security automation & SIEM implementation in home labs
-
+<p style="font-size: 16px;">I’m an IT Security graduate with hands-on experience in:</p>
+<ul style="font-size: 16px;">
+  <li>🔍 Threat detection & response using Splunk and Security Onion</li>
+  <li>📊 Risk assessments with NIST SP 800-53</li>
+  <li>🔐 <strong>Identity & Access Management (IAM)</strong> — managing user access provisioning, SSO/MFA integration, and access reviews using tools like Shibboleth, Grouper, and Duo MFA to enforce least privilege and support compliance.</li>
+  <li>🛠️ Security automation & SIEM implementation in home labs</li>
+</ul>
 ---
 
 ### 💼 Projects
