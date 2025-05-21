@@ -38,6 +38,4 @@ I’m an IT Security graduate with hands-on experience in:
 &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/bluesky/000000" width="28" alt="Bluesky" />](https://bsky.app/profile/hellorichie.bsky.social)
 
-### 🐍 GitHub Contribution Snake
 
-<img src="https://IamMufasa.github.io/snake-graph/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
