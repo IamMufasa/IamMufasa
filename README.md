@@ -9,7 +9,8 @@
 I’m an IT Security graduate with hands-on experience in:
 - 🔍 Threat detection & response using Splunk and Security Onion
 - 📊 Risk assessments with NIST SP 800-53
-- 🔐 Identity & Access Management (IAM) using Shibboleth, Grouper, and Duo MFA
+- 🔐 **Identity & Access Management (IAM)** — managing user access provisioning, SSO/MFA integration, and access reviews using tools like Shibboleth, Grouper, and Duo MFA to enforce least privilege and support compliance.
+
 - 🛠️ Security automation & SIEM implementation in home labs
 
 ---
