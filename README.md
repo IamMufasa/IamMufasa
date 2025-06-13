@@ -1,10 +1,6 @@
 <h2 style="all: unset; font-size: 32px; font-weight: bold;">Hi, I'm Richie!</h2>
 
-<span style="font-size: 18px;">
-  <a href="https://github.com/IamMufasa" style="text-decoration: none; color: #0366d6;"><b>Cybersecurity Enthusiast</b></a>,
-  <a href="https://github.com/IamMufasa?tab=repositories" style="text-decoration: none; color: #0366d6;"><b>SOC & GRC Builder</b></a>,
-  <a href="https://youtube.com/@TechRichieOut" style="text-decoration: none; color: #0366d6;"><b>YouTuber</b></a>
-</span>
+
 
 <p style="font-size: 16px;">I’m an IT Security graduate with hands-on experience in:</p>
 <ul style="font-size: 16px;">
