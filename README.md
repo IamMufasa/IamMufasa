@@ -1,14 +1,14 @@
-# Richie Akpan's IT & Cybersecurity Project Portfolio 🔐  
+# <span style="color:blue">Richie Akpan's</span> IT & Cybersecurity Project Portfolio 🔐  
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!  
 
 ---
 
-## ​​ Vulnerability Management Projects  
-- **Vulnerability Management Program Implementation**  
-   Built a structured approach to identify, prioritize, and remediate vulnerabilities across enterprise environments.
+## ⚠️ Vulnerability Management Projects  
+- ⚠️ **Vulnerability Management Program Implementation**  
+   Built a structured approach to identify, prioritize, and remediate vulnerabilities across enterprise environments.  
 
-- **Programmatic Vulnerability Remediations (PowerShell & Bash)**  
+
 ### 🛡️ Vulnerability Management Lab with Tenable  
 > Conducted cloud-based vulnerability assessments and DISA/STIG remediation in Azure using Tenable’s VM platform.  
 📁 [View Repository](https://github.com/IamMufasa/Vulnerability-Management-Lab-with-Tenable)
