@@ -6,13 +6,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/IamMufasa/vulnerability-management-program)**
+- **[Vulnerability Management Lab with Tenable](https://github.com/IamMufasa/Vulnerability-Management-Lab-with-Tenable)**  
+> Conducted cloud-based vulnerability assessments and DISA/STIG remediation in Azure using Tenable’s VM platform.  
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)**
 
-- **[Vulnerability Management Lab with Tenable](https://github.com/IamMufasa/Vulnerability-Management-Lab-with-Tenable)**  
-> Conducted cloud-based vulnerability assessments and DISA/STIG remediation in Azure using Tenable’s VM platform.  
+
 
 
 --
