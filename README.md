@@ -9,9 +9,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)**
 
-### 🛡️ Vulnerability Management Lab with Tenable  
+- **[Vulnerability Management Lab with Tenable](https://github.com/IamMufasa/Vulnerability-Management-Lab-with-Tenable)**  
 > Conducted cloud-based vulnerability assessments and DISA/STIG remediation in Azure using Tenable’s VM platform.  
 📁 [View Repository](https://github.com/IamMufasa/Vulnerability-Management-Lab-with-Tenable)
 
